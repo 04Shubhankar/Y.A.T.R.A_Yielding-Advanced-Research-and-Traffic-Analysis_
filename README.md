@@ -7,7 +7,7 @@ YATRA is a project developed in my 3rd semester to explore the dynamics of traff
     Ensure you have administrative privileges while installing dependencies.
     Set the Python environment in your system's PATH for seamless execution.
 2. To install MySQL Workbench, click the link below: [Install MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
-3. Insall All required modules using command promt by using the following commands
+3. Install All required modules using command promt by using the following commands
     ```bash
          pip install numpy
          pip install Pillow
