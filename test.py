@@ -1,4 +1,6 @@
-import tkinter as tk
+"Used only for testing the model, not in the actual implementation."
+
+"""import tkinter as tk
 import pandas as pd  # Import pandas for potential DataFrame usage
 import RegressionModel
 import LoginPage
@@ -27,3 +29,4 @@ button5.pack()
 
 
 root.mainloop()
+"""
