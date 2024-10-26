@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  2 14:25:39 2024
 
-@author: Sherya bhandari
-"""
 
 import mysql.connector
 from mysql.connector import errorcode
