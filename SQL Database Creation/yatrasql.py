@@ -8,8 +8,8 @@ try:
     db_connection = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="",
-        database=""
+        password="", #Password for SQL Workbench
+        database=""  #Name of Created data base
     )
     cursor = db_connection.cursor()
 
