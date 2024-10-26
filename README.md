@@ -2,7 +2,7 @@
 YATRA is a project developed in my 3rd semester to explore the dynamics of traffic flow and make predictive analyses using data collected from tolls. This project marks my first attempt at using regression models in Python, specifically polynomial regression, to analyze current traffic patterns and forecast future trends. Through YATRA, I aim to gain hands-on experience with predictive modeling while addressing real-world traffic challenges.
 
 
-##Running the Application 
+#Running the Application 
 1. Install the Python Idle [Click Here (Python)](https://www.python.org/downloads/)
     Ensure you have administrative privileges while installing dependencies.
     Set the Python environment in your system's PATH for seamless execution.
@@ -23,11 +23,4 @@ YATRA is a project developed in my 3rd semester to explore the dynamics of traff
                 CREATE DATABASE yatra;
 5. Now run yatrasql.py from SQL Database Creation to create all the required tables in the database
 6. Finally run yatra.py from the main folder.
-
-
-
-![image](https://github.com/user-attachments/assets/0d2959b0-8d46-4faa-a57b-9eda099072d5)
-
-
-         
 
