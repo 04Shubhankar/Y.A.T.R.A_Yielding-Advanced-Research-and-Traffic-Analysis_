@@ -4,3 +4,12 @@ YATRA is a project developed in my 3rd semester to explore the dynamics of traff
 
 ##Running the Application 
 1. Install the Python Idle [Click Here (Python)](https://www.python.org/downloads/)
+    Ensure you have administrative privileges while installing dependencies.
+    Set the Python environment in your system's PATH for seamless execution.
+2. Insall All required modules using command promt by using the following commands
+     ```bash
+     pip install numpy
+     pip install pandas
+     pip install cv2
+     
+
