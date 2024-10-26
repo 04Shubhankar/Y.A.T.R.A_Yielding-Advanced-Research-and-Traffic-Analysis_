@@ -9,7 +9,7 @@ try:
         host="localhost",
         user="root",
         password="", #Password for SQL Workbench
-        database=""  #Name of Created data base
+        database="yatra"  #Name of Created data base
     )
     cursor = db_connection.cursor()
 
