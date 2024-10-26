@@ -23,7 +23,11 @@ YATRA is a project developed in my 3rd semester to explore the dynamics of traff
                 CREATE DATABASE yatra;
 5. Now run yatrasql.py from SQL Database Creation to create all the required tables in the database
 6. Finally run yatra.py from the main folder.
-     
+
+
+
+![image](https://github.com/user-attachments/assets/0d2959b0-8d46-4faa-a57b-9eda099072d5)
+
 
          
 
