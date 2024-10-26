@@ -17,6 +17,7 @@ YATRA is a project developed in my 3rd semester to explore the dynamics of traff
          pip install scikit-learn
          pip install mysql-connector-python
  **tkinter** (included with Python standard library, no need to install separately)
+ 
  4. Open SQL Workbench and create a database with command
  
                 CREATE DATABASE yatra;
